@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">🚀 Hello! I'm <span style="color:#00ffcc;">Minh</span> 👋</h1>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDljZjdpNWJoMjh6cDM1Ymp2a2pucDZ0OTd6eHV0MjdkN3FjMWh1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="200"/>
+  <img src="https://private-user-images.githubusercontent.com/69003304/420538675-2d1c7b36-d6f8-476f-8003-2dc3e34f78c3.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3MTI1NzksIm5iZiI6MTc1NDcxMjI3OSwicGF0aCI6Ii82OTAwMzMwNC80MjA1Mzg2NzUtMmQxYzdiMzYtZDZmOC00NzZmLTgwMDMtMmRjM2UzNGY3OGMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA5VDA0MDQzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4NmY2YjA4ZTBiODJhODFjOGEzMGMxNTFiY2UxYTM1YWFiNzc4OTMzYzgyNWM0MDhkOWI0MWQzNGEyNWI0ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pNTvDHXL3x7oZEANHZsKLkHgw70gGQ4Y-PzEgNJqo7k" width="100%"/>
 </p>
 
 ---
@@ -41,6 +41,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📦 Other Tools
+![Shell Script](https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=shell_script&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
