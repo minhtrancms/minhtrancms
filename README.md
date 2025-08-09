@@ -1,65 +1,79 @@
 <!-- Banner -->
-<h1 align="center">🚀 Xin chào! Mình là <span style="color:#00ffcc;">Minh</span> 👋</h1>
+<h1 align="center">🚀 Hello! I'm <span style="color:#00ffcc;">Minh</span> 👋</h1>
 <p align="center">
-  <img src="https://i.giphy.com/media/3o7aD2saalBwwftBIY/giphy.webp" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDljZjdpNWJoMjh6cDM1Ymp2a2pucDZ0OTd6eHV0MjdkN3FjMWh1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## 🧑‍💻 Về mình
-- 💻 Fullstack Developer
-- ⚡ Yêu thích: Python, PHP, JavaScript, Laravel, Flutter
-- 📍 Sống tại: Việt Nam
-- ✨ Luôn tìm cách tối ưu code & tự động hóa công việc
+## 🧑‍💻 About Me
+- 💻 Fullstack Developer (specializing in Web Applications)
+- ☁️ Skilled in popular cloud & hosting platforms  
+- 📍 Based in Vietnam 🇻🇳  
+- ✨ Passionate about code optimization and automation  
 
 ---
 
-## 🛠 Kỹ năng & Công cụ
+## 🛠 Skills & Tools
 
-### Ngôn ngữ lập trình
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Framework / Library
+### ⚙️ Backend & API
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f7f7f7?style=for-the-badge&logo=python&logoColor=#f6d44d)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-### Công cụ & Nền tảng
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![DirectAdmin](https://img.shields.io/badge/DirectAdmin-1D3F72?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📦 Other Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Office-DC3E15?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=minhtrancms&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrancms&layout=compact&theme=radical" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhtrancms&theme=radical" height="150"/>
 </p>
 
 ---
 
-## 🏆 Thành tựu
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=minhtrancms&theme=radical&row=1&column=8" />
 </p>
 
 ---
 
-## 📫 Liên hệ
-- 📧 Email: **youremail@example.com**
-- 🌐 Website: [https://wincavn.com](https://wincavn.com)
+## 📫 Contact
+- 📧 Email: **nmtran68@gmail.com**
+- 🌐 Website: [https://minhtrancms.com](https://minhtrancms.com)
 
 ---
 
 <p align="center">
-  <i>🔥 Cảm ơn bạn đã ghé thăm profile của mình! 🔥</i>
+  <i>🔥 Thanks for visiting my profile! 🔥</i>
 </p>
